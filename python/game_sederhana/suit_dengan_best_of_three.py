@@ -46,6 +46,6 @@ print(f"Player [{pl_score}]")
 print(f"Komputer [{com_score}]")
 
 if pl_score > com_score:
-	print("- Kamu Memengankan Pertandingan")
+	print("- Kamu Memenangkan Pertandingan")
 else:
 	print("- Kamu Kalah Dalam Pertandingan")
